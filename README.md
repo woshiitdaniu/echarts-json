@@ -4,11 +4,11 @@
 ![8ab85def98394a16ab77e8c2840c4823.png](en-resource://database/499:1)
 
 ## echart-json有哪些功能或特点？
-* 非常方便的在项目中`引入`
-    *  npm install -D echart-json
-    *  需要用的地方内引入然后就可以调用啦 
-    *  import echartJson from 'echarts-json'
-    *  echartJson.init(container,eChart,option)
+    <br/>  非常方便的在项目中`引入`
+    <br/>  npm install -D echart-json
+    <br/>  需要用的地方内引入然后就可以调用啦 
+    <br/>  import echartJson from 'echarts-json'
+    <br/>  echartJson.init(container,eChart,option)
     
 <br/> 编辑和预览`同步滚动`，所见即所得
 <br/>`无需重复编译`，方便效率党们快速的查看修改后的效果
