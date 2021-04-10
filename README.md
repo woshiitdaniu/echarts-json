@@ -4,11 +4,11 @@
 ![8ab85def98394a16ab77e8c2840c4823.png](en-resource://database/499:1)
 
 ## echart-json有哪些功能或特点？
-   <br/>  非常方便的在项目中`引入`
-   <br/>  *npm install -D echart-json*
-   <br/>  需要用的地方内引入然后就可以调用啦 
-   <br/>  *import echartJson from 'echarts-json'*
-   <br/>  *echartJson.init(container,eChart,option)*
+   <br/>非常方便的在项目中`引入`
+   <br/>*npm install -D echart-json*
+   <br/>需要用的地方内引入然后就可以调用啦 
+   <br/>*import echartJson from 'echarts-json'*
+   <br/>*echartJson.init(container,eChart,option)*
     
 <br/>1.编辑和预览`同步滚动`，所见即所得
 <br/>2.`无需重复编译`，方便效率党们快速的查看修改后的效果
@@ -17,10 +17,10 @@
 <br/>5.点击确认后无痕删除新增容器，程序员对打包体积的梗,你我都懂
 ## 有问题反馈
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
-<br/> **邮件**(416253521@qq.com)
-<br/> **微信**:esxhdcom
-<br/> **博客**:[@永远在追求](https://blog.csdn.net/weixin_41421227?spm=1010.2135.3001.5421&type=blog)
-<br/> **github**:[@woshiitdaniu](https://github.com/woshiitdaniu)
+<br/>**邮件**(416253521@qq.com)
+<br/>**微信**:esxhdcom
+<br/>**博客**:[@永远在追求](https://blog.csdn.net/weixin_41421227?spm=1010.2135.3001.5421&type=blog)
+<br/>**github**:[@woshiitdaniu](https://github.com/woshiitdaniu)
 ## 备注下
 由于这是在兴趣的驱动以及自己在项目开发中对echart调式后的思考,觉得有必要写一个`好用`的东西让咱们程序猿们不再因为调试echart而在浏览器和编辑器切来切去，由于该插件是初版，只实现了基本的实时编辑等功能，有非常多不完善的地方，比如样式丑陋，功能简单粗暴，但希望你能喜欢我的作品，同时也能支持一下。
 ## 感激
