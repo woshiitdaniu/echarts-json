@@ -1,6 +1,6 @@
 
 ![echarts-json](https://img2.baidu.com/it/u=3355464299,584008140&fm=26&fmt=auto&gp=0.jpg)
-## echart-json是什么?
+## echarts-json是什么?
 ![它是啥](https://img-blog.csdnimg.cn/20210411120038187.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTQyMTIyNw==,size_16,color_FFFFFF,t_70)
 
 ## echarts-json有哪些功能或特点？
@@ -36,8 +36,8 @@
 1.npm install -D echarts-json
 
 2.入口文件 main.js
-  import echartsJson from 'echarts-json'
-  Vue.prototype.$echartsJson = echartsJson
+import echartsJson from 'echarts-json'
+Vue.prototype.$echartsJson = echartsJson
   
 3.xxx.vue 需要调试echart的组件中
 /*
